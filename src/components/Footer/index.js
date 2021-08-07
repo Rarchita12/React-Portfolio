@@ -31,7 +31,7 @@ function Footer() {
         </a>
       </div>
       <p className="footer-info">
-        &copy; Priya Ravi |{" "}
+        &copy; Archita Racherla |{" "}
         <a
           href="https://github.com/priyaravi23/react-portfolio/raw/master/src/assets/priya-resume.pdf"
           className="link"

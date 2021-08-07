@@ -22,7 +22,8 @@ function Header() {
         <Route path="/about">
           <About />
         </Route>
-
+        <Route path="/portfolio" component={Portfolio} />
+        <Route path="/contact" component={Contact} />
         <Route path="/resume">
           <Resume />
         </Route>
