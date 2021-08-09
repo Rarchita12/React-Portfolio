@@ -1,5 +1,7 @@
 import React from "react";
 import AboutMePic from "../../assets/images/AboutMeavatar.png";
+
+//About
 function About() {
   return (
     <section className="title">

@@ -1,13 +1,16 @@
-import React from "react";
-import Footer from "./components/Footer";
-import Header from "./components/Header";
-import "./App.css";
+import React from 'react';
+import Header from './components/Header';
+import Footer from './components/Footer';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import './App.css';
 
+// Run app
 function App() {
+
   return (
     <div className="App">
-      <Header />
-      <Footer />
+      <Header/>
+      <Footer/>
     </div>
   );
 }
